@@ -2,4 +2,9 @@
     <string name="app_name">ExamenMarioHerrero</string>
     <string name="cargando">Cargando...</string>
     <string name="error">Error</string>
+    <string name="listar">Listar</string>
+    <string name="insertar">Insertar</string>
+    <string name="anadir">Añadir</string>
+    <string name="atras">Atrás</string>
+    <string name="detalle">Detalle</string>
 </resources>
